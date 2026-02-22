@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "上海ハニー",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2026-02-22T00:17:26.343767Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "上海ハニー",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_上海ハニー_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "上海ハニー (アルバムリミックス)",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/02_上海ハニー_(アルバムリミックス)_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "上海ハニー",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/03_上海ハニー_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "上海ハニー",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/04_上海ハニー_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "上海ハニー(アルバムリミックス)",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/05_上海ハニー(アルバムリミックス)_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "01 上海ハニー",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/06_01_上海ハニー_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "上海ハニー (LIVE ИATURAL ~from LIVE TOUR 005“ИATURAL”at YOKOHAMA ARENA 2005.12.13~)",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/07_上海ハニー_(LIVE_ИATURAL_~from_LIVE_TOUR_005“ИATURAL”at_YOKOHAMA_ARENA_2005.12.13~)_Orange_Range.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上海ハニー",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_上海ハニー_ORANGE_RANGE.txt"
+    }
+  ]
+}
